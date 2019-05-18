@@ -17,4 +17,4 @@ The markdown contained in this repository was originally created from the [Post 
 
 All content in this repository is released under the Created Commons Attribution CC BY (license), all code is released under Apache 2.0 Open Source licence.
 
-Original PDF license provided [via twitter](https://twitter.com/MrsYisWhy/status/969991710590799872)
+Original PDF license provided [via twitter](https://twitter.com/cruzerwired)
