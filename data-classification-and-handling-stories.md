@@ -9,7 +9,7 @@ The department is having a lot of audit issues of weak risk awareness on informa
 
 | Checklist                                | Description                |
 | ------------------------------------------ | ---------------------------------- |
-| Classified document does not have sensitivity label | You found documents with no sensitivity labels such as Internal, Confidential  |
+| Classified document does not have sensitivity label | You found documents with no sensitivity labels  |
 | Classified document not properly secured  | You found documents with confidential information lying around on the desks |
 |                                                    | You found documents with confidential informtion in the printer outtray |
 |                                                    | You found document cabinets not locked |
