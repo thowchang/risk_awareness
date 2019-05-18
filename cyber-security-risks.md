@@ -8,14 +8,14 @@ The organsation is having a lot of audit issues of weak cyber risk awareness.
 
 | Attacks                             | Description                |
 | ------------------------------------------ | ---------------------------------- |
-| Phishing Email        | The email looks convincing and public email login credential was phished.  |
-| Spear Phishing Email  | The email looks convincing and you clicked on a URL link in the email |
-|                       | The email looks convincing and you opened an attachment in the email |
+| Phishing Email        | The email looks convincing and your credential was phished.  |
+| Spear Phishing Email  | The email looks convincing and you clicked on a URL link in the email which downloaded stage 2 malware |
+|                       | The email looks convincing and you opened an attachment in the email which downloaded stage 2 malware |
 | Voice Phishing        | The caller sounded convincing and you released internal contact details |
-| USB stick             | You picked up a USB stick and you were curious what is on the USB stick|
-|                       | You received a USB stick at an event |
-|                       | You received a USB stick from your vendor |
-|                       | Your vendor inserted a USB stick in your computer  |
+| USB stick             | You picked up a USB stick in a public area and you inserted into your computer|
+|                       | You received a USB stick at an event and you inserted into your computer|
+|                       | You received a USB stick from your vendor and you inserted into your computer |
+|                       | Your vendor inserted a USB stick in your computer without your permission|
 | Tailgating            | Someone tailgated you into your office premise  |
 | Rouge Wifi            | You connectd to a rouge Wifi and your public email login crendential was phished   |
 |                       | You connectd to a rouge rouge wifi and your public email login crendential was phished |
