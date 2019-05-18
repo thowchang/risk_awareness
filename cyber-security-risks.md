@@ -18,7 +18,7 @@ The organsation is having a lot of audit issues of weak cyber risk awareness.
 |   | Your vendor inserted a USB stick in your computer  |
 | Tailgating  | Someone tailgated you into your office premise  |
 | Rouge Wifi  | You connectd to a rouge Wifi and your public email login crendential was phished   |
-| Online Registration  | You used your office email to register on an online websote   |
+| Email credentials  | You used your office email to register on an online websote   |
 | Unauthorised program  | You downloaded and executed a program from a third party website  |
 
 
