@@ -20,7 +20,7 @@ The organsation is having a lot of audit issues of weak cyber risk awareness.
 |                       | You connectd to a rouge rouge wifi and your public email login crendential was phished |
 | Email credentials     | You used your office email to register on an online websote   |
 | Unauthorised program  | You downloaded and executed a program from a third party website  |
-| Shared workstation    | You login on a shared workstation which was telling your login credentials   |
-| Use of Internet       | You were surfing undesirable websites |
-|                       | You sent information unencrypted over the Internet  |
+| Shared workstation    | You used a shared workstation to perform banking transactions   |
+| Unauthorised websites | You were surfing undesirable websites |
+| Insecure transfer of information | You sent some information unencrypted over the Internet  |
 
