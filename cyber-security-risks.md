@@ -4,7 +4,7 @@
 The organsation is having a lot of audit issues of weak cyber risk awareness.
 
 
-# Gamification
+# Risks
 
 | Attacks                             | Description                |
 | ------------------------------------------ | ---------------------------------- |
