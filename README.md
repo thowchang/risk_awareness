@@ -1,17 +1,16 @@
-## Risk Awareness Storied
+## Risk Awareness Stories
 
 
 This repository contains a collection of user security stories and acceptance criteria.
 
-- [User Security Stories](user-security-stories.md)
+- [Data Classification and Handling](data-classification-and-handling-stories.md)
 
-- [Security Acceptance Criteria](security-acceptance-criteria.md)
+- [cyber security risk](cyber-security-risks.md)
 
-Please fork and contribute additional security stories and acceptance criteria that you think will benefit the community.
 
 ## History
 
-The markdown contained in this repository was originally created from the [Post Modern Security's PDF](https://edition.cnn.com) following this [Twitter thread](https://twitter.com/xxx)
+The markdown contained in this repository was originally created from the [xxx Security's PDF](https://edition.cnn.com) following this [Twitter thread](https://twitter.com/xxx)
 
 ## Licence
 
