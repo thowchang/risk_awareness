@@ -8,7 +8,3 @@ This repository contains a collection of user security risks.
 - [Cyber Security Risks](cyber-security-risks.md)
 
 
-## History
-
-Original
-
