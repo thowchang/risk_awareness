@@ -1,10 +1,10 @@
-# Cyber Security Risks Gamification
+# Cyber Security Risks
 
 # Your Assignment
 The organsation is having a lot of audit issues of weak cyber risk awareness.
 
 
-# Hotspots
+# Gamification
 
 | Attacks                             | Description                |
 | ------------------------------------------ | ---------------------------------- |
