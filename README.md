@@ -5,7 +5,7 @@ This repository contains a collection of user security risks.
 
 - [Information Classification and Handling Risks](information-classification-and-handling-risk.md)
 
-- [Acceptable Use] (acceptable-use.md)
+- [Acceptable Use](acceptable-use.md)
 
 - [Cyber Security Risks](cyber-security-risks.md)
 
