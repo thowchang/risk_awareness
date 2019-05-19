@@ -1,6 +1,6 @@
 ## Acceptable Use
 
-|||
+|Risks|Description|
 |======|====|
 |Internet access| Undesirable website |
 
