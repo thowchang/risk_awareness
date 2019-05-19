@@ -16,10 +16,9 @@
 ||Inadequate reconciliation of system reports against source documents in processing|
 ||Inadequate of User ID access in half-yearly review exercises|
 ||Department’s storage disks for archival of sensitive information not protected with encryption or secure physically|
-|Acesss 
-Control|Access controls were not granted on a ‘need-to-basis’|
-||Excessive rights were granted on various important data maintained in a shared folder.|
-||Access rights were not reviewed.|
+|Acesss Control|Access controls were not granted on a ‘need-to-basis’
+                Excessive rights were granted on various important data maintained in a shared folder.
+                Access rights were not reviewed.|
 ||The reviewer has the input function in a system. There is no segregation of duties due to a manpower shortage as a result of staff turnover.|
 |Procedures not updated|Some key processing steps were not incorporated in procedural manual|
 ||Procedures were not updated to reflect current practice.|
