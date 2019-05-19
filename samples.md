@@ -1,4 +1,5 @@
 # Samples
+|Examples|
 |------|
 |Department’s file server folders storing sensitive data are granted “everyone” access across the corporate network or Intranet. Audit failure report for such findings. Rights entitlements issue.| 
 |Maker and Checker role not enforced for process and systems. No Dual control password for Servers managed by end-users. Vendors holding standing acesses to Servers.|
