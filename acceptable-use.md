@@ -1,5 +1,7 @@
 ## Acceptable Use
 
+|||
+|======|====|
 |Internet access| Undesirable website |
 
 | | Download programs, utilities |
