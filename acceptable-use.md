@@ -1,7 +1,7 @@
-## Acceptable Use
+# Acceptable Use
 
 |Risks|Description|
-|======|====|
+|------------------|-------------|
 |Internet access| Undesirable website |
 
 | | Download programs, utilities |
