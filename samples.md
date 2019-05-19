@@ -1,5 +1,6 @@
 # Samples
-|Examples|
+
+|Examples||
 |----|------|
 |Common Findings|Department’s file server folders storing sensitive data are granted “everyone” access across the corporate network or Intranet. Audit failure report for such findings. Rights entitlements issue.| 
 ||Maker and Checker role not enforced for process and systems. No Dual control password for Servers managed by end-users. Vendors holding standing acesses to Servers.|
@@ -19,5 +20,4 @@
 ||Excessive rights were granted on various important data maintained in a shared folder.|
 ||Access rights were not reviewed.|
 ||The reviewer has the input function in a system. There is no segregation of duties due to a manpower shortage as a result of staff turnover.|
-
 
