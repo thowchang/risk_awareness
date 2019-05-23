@@ -1,7 +1,10 @@
 ## Risk Awareness
 
+### Shared Responsibilities
 
-This repository contains a collection of user security risks.
+- [Desirable Behaviour](desirable_behaviour.md)
+
+### This repository contains a collection of user security risks.
 
 - [Information Classification and Handling Risks](information-classification-and-handling-risk.md)
 
