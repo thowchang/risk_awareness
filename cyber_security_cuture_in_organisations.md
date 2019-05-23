@@ -1,4 +1,4 @@
-##  Cyber Cecurity Cuture in Organisations
+##  Cyber Security Cuture in Organisations
 
 ### Reference
 - ENISA
@@ -9,7 +9,30 @@
 
 -  CSC is about making information security considerations an integral part of an employee’s job, habits and conduct, embedding them in their day-to-day actions.
 
-- Adopting the right approach to information security enables a resilient CSC to develop naturally from the behaviours and attitudes of employees towards information assets at work,1 and as part of a company’s wider organisational culture, its CSC can be shaped, directed and transformed.
+- Adopting the right approach to information security enables a resilient CSC to develop naturally from the behaviours and attitudes of employees towards information assets at work, and as part of a company’s wider organisational culture, its CSC can be shaped, directed and transformed.
+
+### Need for CSC
+- The majority of data breaches within organisations are the result of human actors,5 and while cybersecurity policies are commonplace among organisations, employees may view them as guidelines rather than rules.
+
+- Technologies cannot protect organisations if incorrectly integrated and utilised.
+
+### Developing and implementing a successful CSC programme
+- There is no ‘one-size-fits-all’ approach
+
+- Setup CSC Working Group comprising of
+    - Information Security
+    - Human Resource
+    - IT Department
+    - Corporate Communications
+    - Legal and Compliance
+
+- Programmes
+   -  Online
+     -  Emails
+     -  Videos
+   -  Hybrid
+   -  Offline
+
 
 
 
