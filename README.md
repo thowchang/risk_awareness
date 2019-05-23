@@ -1,6 +1,8 @@
 ## Risk Awareness
 
-### Shared Responsibilities
+### Our Shared Values
+
+- [Shared Resonsibilities](shared_responsibilities.md)
 
 - [Desirable Behaviour](desirable_behaviour.md)
 
