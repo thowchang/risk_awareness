@@ -1,4 +1,4 @@
 ## Shared Responsibilities
 
 * **_Cyber risk_** is a **_business risk_**. 
-* Managing cyber risks is a **_shared responsibility_**.
+* We have a **_shared responsibility_** to manage cyber risks.
