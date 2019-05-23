@@ -1,3 +1,4 @@
-## Shared Responisbilities
+## Shared Responsibilities
 
-* Cyber risk is a business risk. It is a shared responsibility.
+* Cyber risk is a business risk. 
+* Managing cyber risks is a shared responsibility.
