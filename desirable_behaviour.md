@@ -1,6 +1,6 @@
-### Desirable Behaviour
+### Desirable Behaviours
 
-A number of desirable behaviours have been identified that positively influence the culture towards information security and its actual implementation in day-to-day life. These include:
+A number of **desirable behaviours** have been identified that positively influence the culture towards information security and its actual implementation in day-to-day life. These include:
 * Information security is practiced in daily operations
 * People respect the importance of information security policies and principles. 
 * People are provided with sufficient and detailed information security guidance, and are encouraged to participate in and challenge the current information security situation.
