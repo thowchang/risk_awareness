@@ -2,7 +2,7 @@
 
 ### Our Shared Values
 
-- [Shared Resonsibilities](shared_responsibilities.md)
+- [Shared Responsibilities](shared_responsibilities.md)
 
 - [Desirable Behaviour](desirable_behaviour.md)
 
