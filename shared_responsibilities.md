@@ -14,3 +14,15 @@
    - safeguards our information
    - manages cyber security risks
    - complies fully with laws and regulations
+
+## The importance of human factors in cybersecurity
+* Top cyberattack threats were related to human factors
+  - social engineering
+  - human errors
+  - deliberate misuse
+ 
+ ## Challenge of ensuring physical security
+* maintaining a clean-desk free from classified document
+* locking screens and systems when away from a computer
+* challenging staff not displaying ID badges on business floors
+* enforcing building access controls
