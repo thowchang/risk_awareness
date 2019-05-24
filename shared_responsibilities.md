@@ -11,6 +11,6 @@
 
 ## Shared Responsibilities
 * We have a **_shared responsibility_** to ensure the organisation 
-   - manage information security risks
-   - manage cyber security risks
-   - comply with laws and regulations.
+   - manages information security risks
+   - manages cyber security risks
+   - complies fully with laws and regulations.
