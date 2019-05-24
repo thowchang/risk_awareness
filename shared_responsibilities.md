@@ -9,6 +9,16 @@
   - Loss of revenue
   - Loss of confidence
 
+## Shared Beliefs and VAlues
+Organisational culture is a complex system of shared beliefs and values among employees, which guides
+their behaviour, or to put simply, it is the way things are done. The employees’ information security views,
+attitudes and behaviours will in turn be affected by changes in the organisation’s information security
+culture., Organisational culture can reinforce commitment to the organisation and enhance stability by
+offering guidance and accepted standards for employee behaviour. Both acceptable and unacceptable
+behaviour should be defined in line with the organization’s wishes and encouraged or denounced
+respectively. If sanctions are enforced, consistency in their application is needed to ensure compliance and
+influence changes in the mindsets of employees.
+
 ## Shared Responsibilities
 * We have a **_shared responsibility_** to ensure the organisation 
    - safeguards our information
