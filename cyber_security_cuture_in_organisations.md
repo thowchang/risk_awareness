@@ -12,7 +12,7 @@
 - Adopting the right approach to information security enables a resilient CSC to develop naturally from the behaviours and attitudes of employees towards information assets at work, and as part of a company’s wider organisational culture, its CSC can be shaped, directed and transformed.
 
 ### Need for CSC
-- The majority of data breaches within organisations are the result of human actors,5 and while cybersecurity policies are commonplace among organisations, employees may view them as guidelines rather than rules.
+- The majority of data breaches within organisations are the result of human actors,and while cybersecurity policies are commonplace among organisations, employees may view them as guidelines rather than rules.
 
 - Technologies cannot protect organisations if incorrectly integrated and utilised.
 
