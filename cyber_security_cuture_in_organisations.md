@@ -29,11 +29,44 @@
 - Programmes
    -  Online
         -  Emails
-        -  Videos
+        -  Webinars
+        -  Online training course
    -  Hybrid
+        -  Run Scenarios, Rehearsals, Sandboxes, and War-gaming exercises.
+        -  Mock attacks
    -  Offline
+        -  1-2-1 or group training sessions
+        -  Workshops
+        -  Events
 
-
+- Measurement
+   -  Behavior
+        -   Could not careless
+        -   Forwarding company documents to public mailboxes
+   -  Attitutes
+        -   Multiple incidents of non-compliance
+        -   Visit undesirable websites
+        -   Failure to attend security awareness training
+   -  Compliance
+        -   Desks clear of confidential documents at end of day
+        -   Staff's desktops logged-off when not at desk
+   -  Norms
+   -  Responsibilities
+        -   Not clicking on links from untrusted external sources
+        -   Not clicking on email attachments from untrusted external sources
+        -   Reporting incidents or suspicious activities
+  
+  ## Metrics
+   -  Number/percent of staff who fall victim to a fake phishing attack
+   -  Number/percent of employees following reporting procedures after detecting a [fake] phishing attack
+   -  Number/percent of employees who are securing their desk environment before leaving
+   -  Number/percent of emp-loyees who can identify, stop and report a social engineering attack
+   -  Number/percent of employees posting sensitive organisational information on social networking sites
+   -  Number/percent of employees who are properly following data destruction processes
+   -  Number/percent of employees who follow physical security policy on restricting access to individuals who are not carrying and displaying a valid pass
+  
+  
+   
 
 
  
