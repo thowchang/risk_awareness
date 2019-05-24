@@ -7,6 +7,10 @@
 - [Desirable Behaviour](desirable_behaviour.md)
 
 ### Cyber Security Culture
+
+This concept of culture can encompass repeated behaviours, group norms, embedded skills or shared
+meanings.
+
 - [Cyber Security Culture in Organisations](cyber_security_cuture_in_organisations.md)
 
 
