@@ -4,8 +4,11 @@
   - It needs to be managed as a **_business risk_** and not as an **_IT risk_**.
 * **_Consequences are dire_**. 
   - Regulatory risks
-  - Loss of license to operate
+  - Loss of operating license
   - Loss of lives
+  - Loss of reputation
+  - Loss of revenue
+  - Loss of confidence
 
 ## Shared Responsibilities
 * We have a **_shared responsibility_** to ensure the organisation 
