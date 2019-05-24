@@ -22,7 +22,7 @@
 - Setup CSC Working Group comprising of
     - Information Security
     - Human Resource
-· · · Human resources (HR) have an important role as a connector between management and employees. Thanks to their position within an organisational, HR can offer insights into the behaviour and psyche of employees, which in turn can be used to counter potential insider threats or design and deliver effective security education programmes. The department can also ensure that everyone in the organisation undergoes the necessary security training by enforcing compliance while conducting security practice evaluations of employees and, where necessary, enacting disciplinary sanctions.
+    ···Human resources (HR) have an important role as a connector between management and employees. Thanks to their position within an organisational, HR can offer insights into the behaviour and psyche of employees, which in turn can be used to counter potential insider threats or design and deliver effective security education programmes. The department can also ensure that everyone in the organisation undergoes the necessary security training by enforcing compliance while conducting security practice evaluations of employees and, where necessary, enacting disciplinary sanctions.
 
     - IT Department
     - Corporate Communications
