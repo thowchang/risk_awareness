@@ -9,7 +9,11 @@
 ### Cyber Security Culture
 
 This concept of culture can encompass repeated behaviours, group norms, embedded skills or shared
-meanings.
+meanings. culture can be divided into three levels that interact together:
+(1) promoted values, 
+(2) visible behaviours, and 
+(3) the underlying assumptions we hold.
+An organisation’s culture transformation should begin with a change in values, leading to the adoption of new behaviour. If that behaviour is successful in solving a problem, it will likely be adopted permanently.
 
 - [Cyber Security Culture in Organisations](cyber_security_cuture_in_organisations.md)
 
