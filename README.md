@@ -17,6 +17,10 @@ An organisation’s culture transformation should begin with a change in values,
 
 - [Cyber Security Culture in Organisations](cyber_security_cuture_in_organisations.md)
 
+As security programmes demand additional effort, employee behaviour may be influenced by the perceived
+costs and benefits of security compliance,61 such that to persuade staff to act securely, risk perception is
+key.62 For achieving lasting change, people should understand: (1) the threats they are faced with; (2) the
+security policy they must comply with; and (3) the responsibility they carry.
 
 ### This repository contains a collection of user security risks.
 
