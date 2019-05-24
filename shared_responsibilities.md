@@ -3,7 +3,6 @@
 * **_Cyber risk_** is a **_business risk_**. 
   - It needs to be managed as a **_business risk_** and not as an **_IT risk_**.
 * **_Consequences are dire_**. 
-  - Regulatory risks
   - Loss of operating license
   - Loss of lives
   - Loss of reputation
